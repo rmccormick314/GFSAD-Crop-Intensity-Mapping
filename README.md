@@ -1,2 +1,2 @@
-# GFSAD_Crop_Intensity_Mapping
+# GFSADCropIntensityMapping
 Geospatial image analysis of global cropland intensity.
